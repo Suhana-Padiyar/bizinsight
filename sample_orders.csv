@@ -1,0 +1,31 @@
+order_id,item_name,category,quantity,price,order_date,order_time,customer_type
+1,Masala Chai,Beverages,2,40,2024-01-15,08:30,returning
+2,Paneer Sandwich,Snacks,1,120,2024-01-15,09:10,new
+3,Cold Coffee,Beverages,3,90,2024-01-15,10:45,returning
+4,Veg Burger,Snacks,2,150,2024-01-15,12:00,new
+5,Masala Chai,Beverages,4,40,2024-01-15,08:50,returning
+6,Pasta,Meals,1,200,2024-01-15,13:20,new
+7,Cold Coffee,Beverages,2,90,2024-01-15,14:10,returning
+8,Paneer Sandwich,Snacks,3,120,2024-01-15,15:30,returning
+9,Masala Chai,Beverages,5,40,2024-01-16,08:20,new
+10,Veg Burger,Snacks,1,150,2024-01-16,11:00,returning
+11,Cold Coffee,Beverages,4,90,2024-01-16,14:30,new
+12,Pasta,Meals,2,200,2024-01-16,13:00,returning
+13,Masala Chai,Beverages,3,40,2024-01-16,09:00,returning
+14,Brownie,Desserts,4,80,2024-01-16,16:00,new
+15,Paneer Sandwich,Snacks,2,120,2024-01-16,12:30,returning
+16,Cold Coffee,Beverages,1,90,2024-01-17,15:00,new
+17,Masala Chai,Beverages,6,40,2024-01-17,08:10,returning
+18,Brownie,Desserts,3,80,2024-01-17,17:00,returning
+19,Pasta,Meals,1,200,2024-01-17,13:45,new
+20,Veg Burger,Snacks,2,150,2024-01-17,12:15,returning
+21,Masala Chai,Beverages,2,40,2024-01-18,08:40,new
+22,Cold Coffee,Beverages,3,90,2024-01-18,14:00,returning
+23,Brownie,Desserts,5,80,2024-01-18,16:30,new
+24,Paneer Sandwich,Snacks,1,120,2024-01-18,11:30,returning
+25,Pasta,Meals,3,200,2024-01-18,13:10,new
+26,Masala Chai,Beverages,4,40,2024-01-19,09:20,returning
+27,Veg Burger,Snacks,3,150,2024-01-19,12:00,new
+28,Cold Coffee,Beverages,2,90,2024-01-19,15:45,returning
+29,Brownie,Desserts,2,80,2024-01-19,17:30,new
+30,Pasta,Meals,1,200,2024-01-19,13:00,returning
