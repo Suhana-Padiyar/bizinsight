@@ -60,7 +60,7 @@ def analyze():
             return jsonify({"error": f"Could not read CSV: {str(e)}"}), 400
 
         # 3. Prepare CSV preview for AI (headers + up to 40 rows)
-        preview_rows = min(40, len(df))
+        preview_rows = min(15, len(df))
         csv_preview  = df.head(preview_rows).to_csv(index=False)
         total_rows   = len(df)
         columns      = list(df.columns)
